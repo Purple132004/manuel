@@ -1,0 +1,4 @@
+git config --global user.email "leonardo.deirocini1325@gmail.com"
+git config --global user.name "Purple132004"
+
+sdfs
